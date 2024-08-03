@@ -1,9 +1,11 @@
-**'Ethical Hacker'**
+<p> 
+  <h1> **'Ethical Hacker'** </h1>
+ </p>
 
 I am a BIT student who is well versed in C# programming language, with all projects being handcrafted and produced by yours finest, from the ground up. A real life problem solver with or without a computer. A veteran learner with quick thinking skills, interested in working on complex projects with great minds.
 
 <p>
-<h1>Tools I Use </h1>
+<h2>Tools I Use </h1>
 <img align="left" alt="Java" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Java" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
