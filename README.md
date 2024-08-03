@@ -1,5 +1,5 @@
 <p> 
-  <h1 style="color: #ff0000;"> **'Ethical Hacker'** </h1>
+  <h1> **'Ethical Hacker'** </h1>
  </p>
 
 I am a BIT student who is well versed in C# programming language, with all projects being handcrafted and produced by yours finest, from the ground up. A real life problem solver with or without a computer. A veteran learner with quick thinking skills, interested in working on complex projects with great minds.
@@ -20,6 +20,8 @@ I am a BIT student who is well versed in C# programming language, with all proje
   
   
   <br />
+  *
+
 
 </p>
 <!--
