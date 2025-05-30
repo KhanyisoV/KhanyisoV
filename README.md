@@ -31,7 +31,7 @@
 - 📚 Currently learning: Advanced .NET features & system architecture
 - 🤝 Looking to collaborate on: Projects that solve real-world problems
 - 💬 Ask me about: Anything C#, Visual Studio, or backend development
-- ✉️ Reach me at: [your_email@example.com] or on [LinkedIn](https://linkedin.com/in/yourprofile)
+- ✉️ Reach me at: khanyisovabaza@gmail.com or on [LinkedIn]: https://za.linkedin.com/in/khanyiso-vabaza-761905212
 - ⚡ Fun fact: I debug in my sleep 💤
 
 ---
