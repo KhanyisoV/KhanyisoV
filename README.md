@@ -1,40 +1,40 @@
-<p> 
-  <h1>The Wizard </h1>
- </p>
+<h1 align="center">🧙‍♂️ The Wizard</h1>
 
-I am a BIT student who is well versed in C# programming language, with all projects being handcrafted and produced by yours finest, from the ground up. A real life problem solver with or without a computer. A veteran learner with quick thinking skills, interested in working on complex projects with great minds.
-
-<p>
-<h2>Tools I Use </h1>
-<img align="left" alt="Java" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Java" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
-<img align="left" alt="Java" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-<img align="left" alt="Java" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Java" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-  <img align="left" alt="Java" width="30px" style= "padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img align="left" alt="Java" width="30px" style= "padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
-  
-  
-  <br />
-  *
-
-
+<p align="center">
+  I'm a <strong>BIT student</strong> with a passion for solving real-world problems—on and off the keyboard. <br/>
+  Handcrafting all my projects from scratch using the C# language and other modern tools. <br/>
+  A fast learner and creative thinker, always eager to build smart solutions with brilliant minds.
 </p>
-<!--
-**KhanyisoV/KhanyisoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools I Use
+
+<p align="left">
+  <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+  <img alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+  <img alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+  <img alt="RStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+  <img alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+  <img alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <img alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+  <img alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</p>
+
+---
+
+### 📌 Quick Facts
+
+- 🛠️ Currently working on: Full-stack applications and smart system design
+- 📚 Currently learning: Advanced .NET features & system architecture
+- 🤝 Looking to collaborate on: Projects that solve real-world problems
+- 💬 Ask me about: Anything C#, Visual Studio, or backend development
+- ✉️ Reach me at: [your_email@example.com] or on [LinkedIn](https://linkedin.com/in/yourprofile)
+- ⚡ Fun fact: I debug in my sleep 💤
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
